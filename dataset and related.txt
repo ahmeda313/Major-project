@@ -1,0 +1,11 @@
+https://rose1.ntu.edu.sg/dataset/cctvFights/
+
+https://medium.com/mlearning-ai/suspicious-human-activity-detection-95b870dae688
+
+https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0
+
+https://www.csc.kth.se/cvap/actions/
+
+https://www.kaggle.com/datasets/odins0n/ucf-crime-dataset
+
+http://socia-lab.di.ubi.pt/EventDetection/
